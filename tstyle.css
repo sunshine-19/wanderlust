@@ -68,7 +68,7 @@ nav ul{
 .hero{
     min-height: 90vh;
     background: linear-gradient(rgba(0, 0, 0, 0.511),transparent);
-    background: url("/pics/travel.avif");
+    background: url("pics/travel.avif");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -85,7 +85,7 @@ nav ul{
 
 #locations{
     min-height: 100vh;
-    background: linear-gradient(rgba(10, 10, 10, 0.461),transparent),url("/pics/new-york-page.png");
+    background: linear-gradient(rgba(10, 10, 10, 0.461),transparent),url("pics/new-york-page.png");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -171,7 +171,7 @@ nav ul{
 
 #contact{
     min-height: 100vh;
-    background: url("/pics/lightsout.jpg");
+    background: url("pics/lightsout.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
